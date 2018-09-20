@@ -12,3 +12,7 @@
 ![alt text](https://github.com/FaradilaRahmandasari/Modul2/blob/master/Latihan4.PNG)
 # Penjelasan Program Latihan 4
 ![alt text](https://github.com/FaradilaRahmandasari/Modul2/blob/master/JawabanLatihan4.PNG)
+# Output Tugas Praktikum 1
+![alt text](https://github.com/FaradilaRahmandasari/Modul2/blob/master/TugasPraktikum1.PNG)
+# Output Tugas Praktikum 2
+![alt text](https://github.com/FaradilaRahmandasari/Modul2/blob/master/TugasPraktikum2.PNG)
