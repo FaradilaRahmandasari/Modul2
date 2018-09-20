@@ -7,8 +7,8 @@
 # Penjelasan Output Latihan 2
 ![alt text](https://github.com/FaradilaRahmandasari/Modul2/blob/master/JawabanLatihan2.PNG)
 # Output Latihan 3
-https://github.com/FaradilaRahmandasari/Modul2/blob/master/Latihan3.PNG
+![alt text](https://github.com/FaradilaRahmandasari/Modul2/blob/master/Latihan3.PNG)
 # Output Latihan 4
-https://github.com/FaradilaRahmandasari/Modul2/blob/master/Latihan4.PNG
+![alt text](https://github.com/FaradilaRahmandasari/Modul2/blob/master/Latihan4.PNG)
 # Penjelasan Program Latihan 4
-https://github.com/FaradilaRahmandasari/Modul2/blob/master/JawabanLatihan4.PNG
+![alt text](https://github.com/FaradilaRahmandasari/Modul2/blob/master/JawabanLatihan4.PNG)
